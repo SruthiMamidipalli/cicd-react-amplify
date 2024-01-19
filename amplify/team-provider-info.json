@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "cicdreactamplifyf6d2f4b9": {}
+      },
+      "api": {
+        "cicdreactamplify": {}
+      },
+      "storage": {
+        "cicdstorage": {}
       }
     }
   }

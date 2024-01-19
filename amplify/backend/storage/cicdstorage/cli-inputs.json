@@ -1,0 +1,14 @@
+{
+  "resourceName": "cicdstorage",
+  "policyUUID": "f03ba7c7",
+  "bucketName": "cicd-react-amplify-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
